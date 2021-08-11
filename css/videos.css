@@ -1,0 +1,76 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.n_vid
+{
+    width: 100%;
+    font-size: 120px;
+    text-align: center;
+    border-top: 17px solid black;
+}
+.topo
+{
+    width: 100%;
+    height: 17px;
+    background-color: black;
+}
+.topo a{color: white;}
+
+.sc_vid
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: rgb(122, 150, 150);
+}
+
+iframe
+{
+    width: auto;
+}
+
+.vid_1
+{
+   margin:4% ; 
+}
+.vid_2
+{
+   margin: 6%;
+}   
+.vid_3
+{
+    margin: 2%;
+}  
+.vid_4
+{
+  margin: 7%;
+}
+.vid_5
+{
+    margin: 2%;
+}
+.vid_6
+{
+    margin: 6%;
+}
+
+.rodap 
+{
+    width: 100%;
+    height: 120px;
+    background-color: black;
+}
+.rodap h2
+{
+    font-size: 27px;
+    color: white;
+}
+.rodap a
+{
+    color: white;
+    float: right;
+    margin-top: 60px;
+}

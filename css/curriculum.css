@@ -1,0 +1,61 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nome
+{
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.foto
+{
+    float: right;
+    border-radius: 20px;
+    margin-right: 200px;
+}
+.top 
+{
+    height: 20px;
+    background-color: black;
+}
+.top a{color: white;}
+.leo
+{
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+article h2
+{
+    margin-left: 60px;
+}
+.res
+{
+    margin-left: 200px;
+}
+
+.apt
+{
+    margin-left: 250px;
+}
+
+.tempo
+{
+    margin-left: 60px;
+}
+.formacao
+{
+    margin-left: 60px;
+    margin-bottom: 50px;
+}
+.fim
+{
+    background-color: black;
+    height: 40px;
+    color: white;
+}

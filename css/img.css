@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top
+{
+    width: 100%;
+    background-color: black;
+    height: 17px;
+}
+
+.titulo
+{
+    width: 100%;
+    font-size: 120px;
+    font-style: italic;
+    text-align: center;
+    border: 2px solid black;
+    background-color: white;
+}
+
+nav{background-color: black;}
+nav a {color: white;}
+
+body{background-color: rgb(122, 122, 240);}
+.sec
+{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.fot img
+{
+    border: 2px solid rgb(60, 223, 60);
+    margin: 1%;
+    width: 30%;
+}
+
+.rodape
+{
+    height: 200px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.rodape a 
+{
+    color: white;
+    font-size: 25px;
+    float: right;
+}

@@ -1,0 +1,102 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html body{height: 100%;}
+
+.cabeca
+{
+    background-color: greenyellow;
+    height: 80px;
+}
+
+.name
+{
+    font-size: 40px;
+    color: blue;
+    font-style: italic;
+    text-align: center;
+}
+
+.linkedin{float: right;}
+
+.menu
+{
+    background-color: grey;
+    padding: 17px 26px;
+    font-size: 20px;
+}
+
+.menu a
+{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+.menu a:hover{border-bottom: 2px solid yellow;}
+
+.Secao
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.art1
+{
+    width: 50%;
+    height: 300px;
+    background-color: blue;  
+    position: relative;
+    float: left;
+}
+.art2
+{
+    width: 25%;
+    height: 150px;
+    background-color: pink;    
+}
+
+.art3
+{
+    width: 25%;
+    height: 150px;
+    background-color: red;
+   
+}
+.art4
+{
+    width: 25%;
+    height: 150px;
+    background-color: purple;
+    position: relative;
+    margin-top: -150px;
+    margin-left: 50%;     
+}
+
+.art5
+{
+    width: 25%;
+    height: 150px;
+    background-color: salmon;
+    position: relative;
+    margin-top: -150px;
+}
+
+.rodape
+{
+    height: 200px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.rodape a 
+{
+    color: white;
+    font-size: 20px;
+    float: right;   
+}

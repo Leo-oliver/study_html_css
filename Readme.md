@@ -1,0 +1,1 @@
+Pequeno projeto para treinamento e aperfeiçoamento das tecnicas em HTML e CSS puro.
